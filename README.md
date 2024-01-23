@@ -36,5 +36,10 @@ After testing some different options it was determined that the sample with gela
 # Large Scale Pouring
 
  **First Try**
- After having a positive result from the first sample we decided
+ After having a positive result from the first sample we decided to make a big batch that we could then use to lasercut all the needed parts for the final model. However, sadly when we came in the day after the pour it turne out that the material lifted on one side. We determined that this could be due to a few different reasons, the first being that the pour was on the thinner size so it ended up drying quite quickly which could have caused the lift seen. Next to that there might be just not enough glycerin with maeks the material rigid and more prone to breakage. 
+![WhatsApp Image 2024-01-22 at 13 50 48_6498bbc0](https://github.com/ChylkemaMDEF/DigitalPrototyping_Module1/assets/147051108/b6d2a0ff-66ec-44be-8171-38a77cbda3c9)
+![image_6209779](https://github.com/ChylkemaMDEF/DigitalPrototyping_Module1/assets/147051108/1795416e-c132-4799-864d-b4694744d7dc)
+
+
+
 
