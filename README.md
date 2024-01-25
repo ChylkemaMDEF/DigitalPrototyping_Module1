@@ -31,7 +31,14 @@ Steps:
 5. Allow mixture to cool slightly and then pour into mold
 6. Let dry for around 2 days at room temperature
 
-<img src="assets/WoolTest.jpg" alt="drawing" width="200"/>
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 10px;">
+        Left Column Content
+    </div>
+    <div style="flex: 50%; padding: 10px;">
+        <img src="assets/WoolTest.jpg" alt="drawing" width="400"/>
+    </div>
+</div>
 
 
 **2.Gelatine+Hair+Color**
