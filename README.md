@@ -31,18 +31,12 @@ Steps:
 5. Allow mixture to cool slightly and then pour into mold
 6. Let dry for around 2 days at room temperature
 
-<div style="display: flex;">
-    <div style="flex: 50%; padding: 10px;">
-        The recipe we followed was a hot recipe meaning that the mixture was heated over heat and then poured into the mold. The ingredients are as followed:
+| The recipe we followed was a hot recipe meaning that the mixture was heated over heat and then poured into the mold. The ingredients are as followed:
             - Water 240ml
             - Gelatine 48 g
             - Glycerol 0 g - for a rigid effect
-            - Wool - to ensure it stays together.
-    </div>
-    <div style="flex: 50%; padding: 10px;">
-        <img src="assets/WoolTest.jpg" alt="Image" height="200">
-    </div>
-</div>
+            - Wool - to ensure it stays together. | ![Image](assets/WoolTest.jpg)  |
+| ----------------------------- | --------------------- |
 
 
 **2.Gelatine+Hair+Color**
