@@ -40,6 +40,11 @@ Steps:
     </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+    <img src="assets/WoolTest.jpg" alt="Image" height="200" style="margin-right: 20px;">
+    <p>Your text goes here.</p>
+</div>
+
 
 **2.Gelatine+Hair+Color**
 Another sample we tried to make was also agar-agar based but to this one we added goat hair and at a lesser amount so that the material might look a bit cleaner then the first sample. 
