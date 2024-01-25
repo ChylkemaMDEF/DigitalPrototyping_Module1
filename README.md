@@ -60,7 +60,7 @@ After testing some different options it was determined that the sample with gela
  **First Try**
  After having a positive result from the first sample we decided to make a big batch, of the gelatine and hair recipe that had the structure we required, that we could then use to lasercut all the needed parts for the final model. However, sadly when we came in the day after the pour it turne out that the material lifted on one side. We determined that this could be due to a few different reasons, the first being that the pour was on the thinner size so it ended up drying quite quickly which could have caused the lift seen. Next to that there might be just not enough glycerin with maeks the material rigid and more prone to breakage. 
 
-| ![Image](assets/Batch1.jpg) | ![Image](assets/Deformed1.JPG) |
+| <img src="assets/Batch1.jpg" alt="drawing" height="500"/> |  <img src="assets/Deformed1.JPG" alt="drawing" height="500"/> |
 | ------------------------------| --------------------- |
 
 **Second Try**
