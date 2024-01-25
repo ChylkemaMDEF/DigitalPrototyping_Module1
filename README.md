@@ -15,28 +15,8 @@ Now that our main objective were defined we set out to create some samples of ma
 We originally thought we would make a huge batch of the material in one go and then cut it all, however there was an important step we almost missed. We needed to test our materials for there resistance to the lasercutter and the properties we wanted it to have. This is why we first made various samples to try out before making the final materials.
 
 **1.Gelatine+Wool**
-After talking to Petra we learned that we should add another fibourous component to give it a better structure integrity this is why wool fibers were added to the base using agar agar. 
+After talking to Petra we learned that we should add another fibourous component to give it a better structure integrity this is why wool fibers were added to the base using gelatine. 
 
-<div style="display: flex;">
-    <div style="flex: 50%; padding: 10px;">
- The recipe we followed was a hot recipe meaning that the mixture was heated over heat and then poured into the mold. The ingredients are as followed:
-- Water 240ml
-- Gelatine 48 g
-- Glycerol 0 g - for a rigid effect
-- Wool - to ensure it stays together
-
-Steps:
-1. Heat water on stove and add powdered gelatin
-2. Continue heating untill almost boiling, let all the gelatine disolve
-3. Add glycerol now if you are using it
-4. Lay wool on your mold, your mold should be acryllic or hard plastic when using gelatine
-5. Allow mixture to cool slightly and then pour into mold
-6. Let dry for around 2 days at room temperature
-    </div>
-    <div style="flex: 50%; padding: 10px;">
-        Right Column Content
-    </div>
-</div>
 The recipe we followed was a hot recipe meaning that the mixture was heated over heat and then poured into the mold. The ingredients are as followed:
 - Water 240ml
 - Gelatine 48 g
