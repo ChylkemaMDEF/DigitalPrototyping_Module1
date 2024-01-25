@@ -30,7 +30,7 @@ Steps:
 4. Lay wool on your mold, your mold should be acryllic or hard plastic when using gelatine
 5. Allow mixture to cool slightly and then pour into mold
 6. Let dry for around 2 days at room temperature
-![WhatsApp Image 2024-01-19 at 12 51 56_866524bb](https://github.com/ChylkemaMDEF/DigitalPrototyping_Module1/assets/147051108/974a518f-d87c-49c5-a702-1e6bdf110090 | width=100)
+![WhatsApp Image 2024-01-19 at 12 51 56_866524bb](https://github.com/ChylkemaMDEF/DigitalPrototyping_Module1/assets/147051108/974a518f-d87c-49c5-a702-1e6bdf110090)
 
 **2.Gelatine+Hair+Color**
 Another sample we tried to make was also agar-agar based but to this one we added goat hair and at a lesser amount so that the material might look a bit cleaner then the first sample. 
@@ -50,6 +50,7 @@ Steps:
 5. Allow mixture to cool slightly and then pour into mold
 6. Let dry for around 2 days at room temperature
 
+<img src="drawing.jpg" alt="drawing" width="200"/>
 ![WhatsApp Image 2024-01-19 at 16 55 07_bf8f49c6](https://github.com/ChylkemaMDEF/DigitalPrototyping_Module1/assets/147051108/8ef3e91b-a2ad-4aae-b3ce-e345ab3e6758)
 
 After testing some different options it was determined that the sample with gelatine and hair was the most viable optio for us to continue with. 
