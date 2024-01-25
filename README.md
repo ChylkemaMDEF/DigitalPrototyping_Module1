@@ -31,7 +31,7 @@ Steps:
 5. Allow mixture to cool slightly and then pour into mold
 6. Let dry for around 2 days at room temperature
    
-<img src="assets/WoolTest.jpg" alt="drawing" height="1000"/>
+<img src="assets/WoolTest.jpg" alt="drawing" height="500"/>
 
 **2.Gelatine+Hair+Color**
 Another sample we tried to make was also agar-agar based but to this one we added goat hair and at a lesser amount so that the material might look a bit cleaner then the first sample. 
