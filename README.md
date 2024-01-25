@@ -51,8 +51,7 @@ Steps:
 5. Allow mixture to cool slightly and then pour into mold
 6. Let dry for around 2 days at room temperature
 
-<img src="drawing.jpg" alt="drawing" width="200"/>
-![WhatsApp Image 2024-01-19 at 16 55 07_bf8f49c6](https://github.com/ChylkemaMDEF/DigitalPrototyping_Module1/assets/147051108/8ef3e91b-a2ad-4aae-b3ce-e345ab3e6758)
+<img src="assets/HairTest.jpg" alt="drawing" height="500"/>
 
 After testing some different options it was determined that the sample with gelatine and hair was the most viable optio for us to continue with. 
 
