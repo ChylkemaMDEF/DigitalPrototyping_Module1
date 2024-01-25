@@ -30,14 +30,8 @@ Steps:
 4. Lay wool on your mold, your mold should be acryllic or hard plastic when using gelatine
 5. Allow mixture to cool slightly and then pour into mold
 6. Let dry for around 2 days at room temperature
-
-| The recipe we followed was a hot recipe meaning that the mixture was heated over heat and then poured into the mold. The ingredients are as followed:
-            - Water 240ml
-            - Gelatine 48 g
-            - Glycerol 0 g - for a rigid effect
-            - Wool - to ensure it stays together. | ![Image](assets/WoolTest.jpg)  |
-| ----------------------------- | --------------------- |
-
+   
+<img src="assets/WoolTest.jpg" alt="drawing" height="1000"/>
 
 **2.Gelatine+Hair+Color**
 Another sample we tried to make was also agar-agar based but to this one we added goat hair and at a lesser amount so that the material might look a bit cleaner then the first sample. 
