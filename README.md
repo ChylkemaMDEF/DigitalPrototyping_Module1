@@ -34,11 +34,6 @@ Steps:
 
 **2.Gelatine+Hair+Color**
 Another sample we tried to make was also agar-agar based but to this one we added goat hair and at a lesser amount so that the material might look a bit cleaner then the first sample. 
-<div style="display: flex; align-items: center;">
-    <![WhatsApp Image 2024-01-19 at 16 55 07_bf8f49c6](https://github.com/ChylkemaMDEF/DigitalPrototyping_Module1/assets/147051108/8ef3e91b-a2ad-4aae-b3ce-e345ab3e6758)
- height="200" style="margin-right: 20px;">
-    <p>Your text goes here.</p>
-</div>
 
 This recipe was also a hot recipe and the ingredients used are:
 *Water 240ml
