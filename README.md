@@ -33,16 +33,15 @@ Steps:
 
 <div style="display: flex;">
     <div style="flex: 50%; padding: 10px;">
-        Left Column Content
+        The recipe we followed was a hot recipe meaning that the mixture was heated over heat and then poured into the mold. The ingredients are as followed:
+            - Water 240ml
+            - Gelatine 48 g
+            - Glycerol 0 g - for a rigid effect
+            - Wool - to ensure it stays together.
     </div>
     <div style="flex: 50%; padding: 10px;">
-        <img src="assets/WoolTest.jpg" alt="drawing" width="400"/>
+        <img src="assets/WoolTest.jpg" alt="Image" height="200">
     </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <img src="assets/WoolTest.jpg" alt="Image" height="200" style="margin-right: 20px;">
-    <p>Your text goes here.</p>
 </div>
 
 
