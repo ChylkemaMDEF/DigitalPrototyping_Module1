@@ -36,11 +36,11 @@ Steps:
 Another sample we tried to make was also agar-agar based but to this one we added goat hair and at a lesser amount so that the material might look a bit cleaner then the first sample. 
 
 This recipe was also a hot recipe and the ingredients used are:
-*Water 240ml
-*Gelatine 48 g
-*Glycerol 0 g - for a rigid effect
-*Goats hair - to ensure it stays together
-*Myca powder red - add whatever type of colouring agent you want
+- Water 240ml
+- Gelatine 48 g
+- Glycerol 0 g - for a rigid effect
+- Goats hair - to ensure it stays together
+- Myca powder red - add whatever type of colouring agent you want
 
 Steps:
 1. Heat water on stove and add powdered gelatin
