@@ -18,10 +18,10 @@ We originally thought we would make a huge batch of the material in one go and t
 After talking to Petra we learned that we should add another fibourous component to give it a better structure integrity this is why wool fibers were added to the base using agar agar. 
 
 The recipe we followed was a hot recipe meaning that the mixture was heated over heat and then poured into the mold. The ingredients are as followed:
-*Water 240ml
-*Gelatine 48 g
-*Glycerol 0 g - for a rigid effect
-*Wool - to ensure it stays together
+- Water 240ml
+- Gelatine 48 g
+- Glycerol 0 g - for a rigid effect
+- Wool - to ensure it stays together
 
 Steps:
 1. Heat water on stove and add powdered gelatin
