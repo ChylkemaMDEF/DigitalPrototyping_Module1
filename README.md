@@ -59,8 +59,9 @@ After testing some different options it was determined that the sample with gela
 
  **First Try**
  After having a positive result from the first sample we decided to make a big batch, of the gelatine and hair recipe that had the structure we required, that we could then use to lasercut all the needed parts for the final model. However, sadly when we came in the day after the pour it turne out that the material lifted on one side. We determined that this could be due to a few different reasons, the first being that the pour was on the thinner size so it ended up drying quite quickly which could have caused the lift seen. Next to that there might be just not enough glycerin with maeks the material rigid and more prone to breakage. 
-![WhatsApp Image 2024-01-22 at 13 50 48_6498bbc0](https://github.com/ChylkemaMDEF/DigitalPrototyping_Module1/assets/147051108/b6d2a0ff-66ec-44be-8171-38a77cbda3c9)
-![image_6209779](https://github.com/ChylkemaMDEF/DigitalPrototyping_Module1/assets/147051108/1795416e-c132-4799-864d-b4694744d7dc)
+
+| ![Image](assets/Batch1.jpg) | ![Image](assets/Deformed.jpg) |
+| ------------------------------| --------------------- |
 
 **Second Try**
 After the first big batch failed we talked to Petra, the local Fablab expert, and realized that the breakage and bubbling of the mixture could have been caused by 2 factors. First was the use of no glycerol, to combat that we needed to use an oil in the mixture to give it a better chance. We also chose to add a minimal amount of glycerol just in case. The other reason was that the material might haev been dried to quickly. With this in mind we decided to cover the molds so that the airflow would be minimal in the first 2 days and then take the covers off so it would dry evener. We also chose to make two circular molds that we could then use for the base and top of the lamp and then divide the larger mold in 2 so that we could lessen the amount of wastage of material.
