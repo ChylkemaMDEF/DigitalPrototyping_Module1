@@ -66,8 +66,16 @@ After having a positive result from the first sample we decided to make a big ba
 
 **Second Try**
 
-After the first big batch failed we talked to Petra, the local Fablab expert, and realized that the breakage and bubbling of the mixture could have been caused by 2 factors. First was the use of no glycerol, to combat that we needed to use an oil in the mixture to give it a better chance. We also chose to add a minimal amount of glycerol just in case. The other reason was that the material might haev been dried to quickly. With this in mind we decided to cover the molds so that the airflow would be minimal in the first 2 days and then take the covers off so it would dry evener. We also chose to make two circular molds that we could then use for the base and top of the lamp and then divide the larger mold in 2 so that we could lessen the amount of wastage of material.
+After the first big batch failed we talked to Petra, the local Fablab expert, and realized that the breakage and bubbling of the mixture could have been caused by 2 factors. First was the use of no glycerol, to combat that we needed to use an oil in the mixture to give it a better chance. We also chose to add a minimal amount of glycerol just in case. The other reason was that the material might haev been dried to quickly. With this in mind we decided to cover the molds so that the airflow would be minimal in the first 2 days and then take the covers off so it would dry evener. We also chose to make two circular molds that we could then use for the base and top of the lamp and then divide the larger mold in 2 so that we could lessen the amount of wastage of material. However this sample was doing great but after the weekend it was covered in mold. We discovered this must have been as we covered it partly for one night to ensure it didn't dry to quickly. 
+![WhatsApp Image 2024-01-30 at 12 17 03_670c603c](https://github.com/ChylkemaMDEF/DigitalPrototyping_Module1/assets/147051108/50a12b7e-3d63-4e5e-b2a1-925c7fe19eca)
 
+# Reevaluating and Pivoting
+
+From these tests we learned a lot, however as the results kept going wrong we decided to pivot and go back to the first large batch we used. With this material we cut it into smaller pieces so that we could then laser cut a smaller version of our model. The model itself is shown to the right. We then went through the process of cutting and using press fits to bring our product together. Below the process can be seen.
+
+**Small scaled sample**
+
+![Uploading WhatsApp Image 2024-01-30 at 17.38.42_96835bc8.jpg…]()
 
 
 
